@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd apex-ai/web && npm install && npm run build",
+  "outputDirectory": "apex-ai/web/.next",
+  "installCommand": "echo 'deps installed in build step'",
+  "framework": "nextjs"
+}
